@@ -1,0 +1,24 @@
+{
+  "name": "prod-power-queue-485",
+  "version": "1.0.0",
+  "description": "📝 Rapid Factory for logging",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "logging",
+    "rust",
+    "ai",
+    "infrastructure"
+  ],
+  "author": "yksanjo",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/prod-power-queue-485.git"
+  }
+}
